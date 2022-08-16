@@ -5,3 +5,5 @@ mywindow.title("Python + Tkinter GUI")
 mywindow.geometry("600x400")
 
 mywindow.mainloop()
+
+#esto es un comentario adicional
